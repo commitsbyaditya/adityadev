@@ -5,23 +5,22 @@
 <h3 align="center">🎓 BTech CSE (AI & ML) @ RV University | Vice President @ Viksha Coding Club</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/proaditya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/commitsbyaditya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:aditya.official.1308@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+917061940061"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **AI-powered computer vision & blockchain projects**
-- 🏆 **2nd Place** at GDG Tech Sprint Hackathon (National Level) for ReClaim-AI
-- 💼 Former **AI & Automation Intern** @ Zodopt Technologies (Zoho Premium Partner)
-- 🎯 **Sponsorship Head** of Kalpavikas 1.0 - RV University's largest tech fest
-- 🌱 Learning **Quantum Computing, Deep Learning, and Web3 Technologies**
-- 💡 Passionate about **Computer Vision, NLP, and Intelligent Systems**
-- 📫 Reach me: **aditya.official.1308@gmail.com**
+I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning at RV University, Bangalore. With a strong foundation in full-stack development and deep learning, I focus on building intelligent systems that solve real-world problems. My work spans computer vision, natural language processing, blockchain technology, and DevOps automation.
+
+As Vice President of Viksha Coding Club and former Sponsorship Head of Kalpavikas 1.0 (RV University's largest tech fest), I've honed my leadership and organizational skills while fostering a collaborative tech community. I secured 2nd place at the national-level GDG Tech Sprint Hackathon for ReClaim-AI, an AI-powered lost-and-found platform integrating computer vision and blockchain.
+
+During my internship at Zodopt Technologies (Zoho Premium Partner), I developed AI-powered automation tools for B2B lead qualification, combining web scraping, LLM integration, and workflow automation. I'm constantly exploring emerging technologies and contributing to open-source projects that bridge the gap between research and practical applications.
+
+Currently seeking opportunities to apply my skills in AI/ML engineering, full-stack development, and innovative problem-solving in impactful projects.
 
 ---
 
@@ -94,31 +93,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏆 [ReClaim-AI](https://github.com/your-username/reclaim-ai) 
-**YOLOv8, LangGraph, LLMs, Flask, React, Solidity, Firebase** | 🥈 2nd Place - GDG Tech Sprint
-
-- Engineered multi-modal AI matching engine using LangGraph, LLMs, and semantic NLP, improving match accuracy by **60%** and reducing recovery time to **2-3 days**
-- Developed YOLOv8 computer vision system for real-time CCTV surveillance, achieving **85%+** accuracy across 80+ object classes
-- Deployed Ethereum smart contracts on Sepolia testnet with microservices architecture for tamper-proof verification
-
-### 🤖 [XpressiveAI - Sign & Emotion Model](https://github.com/your-username/xpressiveai)
-**ResNet-50, AGFN, MediaPipe, TensorFlow, PyTorch**
-
-- Developed dual deep learning pipelines for emotion recognition and sign language classification
-- Enhanced ResNet-50 architecture with AGFN module, achieving **86.03% accuracy** (5.74% improvement) and F1-score of **0.965**
-- Implemented MediaPipe hand landmark extraction with MLP classifier, achieving **45.2ms inference latency**
-
-### 🍽️ [Menu Mingos - Food Token System](https://github.com/Guru598/Menu-mingos-website)
-**React, Node.js, Express, MongoDB, GitHub Actions**
-
-- Built full-stack MERN application with CI/CD automation using GitHub Actions for ESLint validation and unit testing
-- Developed RESTful APIs for real-time order tracking, JWT authentication, and atomic token generation
-- Implemented Agile workflows with Git branching strategy and automated pull request reviews
-
----
-
 ## 💼 Work Experience
 
 **AI & Automation Intern** | *Zodopt Technologies (Zoho Premium Partner)* | June 2025 - July 2025
@@ -128,37 +102,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🏆 Achievements & Leadership
 
 - 🥈 **2nd Place** - ReClaim-AI at GDG Tech Sprint Hackathon (National Level)
 - 👨‍💼 **Vice President** - Viksha Coding Club, RV University (Nov 2023 - Present)
 - 🎯 **Sponsorship Head** - Kalpavikas 1.0, RV University's largest tech fest
 - 📚 **CGPA: 8.8/10** - BTech CSE (AI & ML Specialization)
-
----
-
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count"/>
-</p>
 
 ---
 

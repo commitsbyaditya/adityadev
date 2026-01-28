@@ -102,14 +102,6 @@ Currently seeking opportunities to apply my skills in AI/ML engineering, full-st
 
 ---
 
-## 🏆 Achievements & Leadership
-
-- 🥈 **2nd Place** - ReClaim-AI at GDG Tech Sprint Hackathon (National Level)
-- 👨‍💼 **Vice President** - Viksha Coding Club, RV University (Nov 2023 - Present)
-- 🎯 **Sponsorship Head** - Kalpavikas 1.0, RV University's largest tech fest
-- 📚 **CGPA: 8.8/10** - BTech CSE (AI & ML Specialization)
-
----
 
 ## 🤝 Connect With Me
 
